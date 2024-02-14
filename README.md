@@ -17,6 +17,8 @@ A empresa detentora da IA chamada de ChatGpt, Openai, possui uma API aberta gera
   - Copie ela e anexe dentro da variável api_key entre aspas
   - Execute o codigo e use o terminal para fazer suas perguntas
   - Para sair digite no terminal "sair"
+
+
 # [Cadastro](https://github.com/gabriellsantos485/Meus-Projetos/blob/main/Cadastro.py) 
 ## Sobre 
 Este projeto foi criado puramente para simular uma sistema de cadastro de produtos dentro de um supermercado. Para isso utilizei orientação a objetos.
@@ -28,6 +30,7 @@ Este projeto foi criado puramente para simular uma sistema de cadastro de produt
 ## Como executar o projeto 
  - Copie o arquivo e anexe ao python
  - Execute o código e siga os passo no terminal
+
 
 # [Interface de Login](https://github.com/gabriellsantos485/Meus-Projetos/tree/main/login)
 ## Sobre 
@@ -43,5 +46,9 @@ Projeto criado para demonstrar minhas habilidades sobre o dominio de criação d
  - Anexe ao arquivo em formato python
  - Instale a biblioteca tkinter dentro do seu terminal da IDE através de um: "pip install tkinter"
  - Execute o código
+
+
+# Autor 
+## [Gabriel Rodrigues dos Santos](www.linkedin.com/in/gabriel-rodrigues-sts)
 
   
