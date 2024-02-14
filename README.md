@@ -6,7 +6,7 @@ Projeto com o objetivo de mergulhar dentro da documentação da API da Openai pa
 
 A empresa detentora da IA chamada de ChatGpt, Openai, possui uma API aberta gerada pela compra de tokens da plataforma, sendo de duas formas, uma forma comercial e outra para uso pessoa. Com isso, seguindo as diretrizes da documentação, consegui implementar esta API, tornando o ChatGpt utilizavel dentro do Python. 
 
-## Tecnologias usadas 
+## Tecnologias utilizadas 
 - Python
 - [API ChatGpt](https://platform.openai.com/docs/api-reference/introduction)
 - Pycharme
@@ -21,7 +21,7 @@ A empresa detentora da IA chamada de ChatGpt, Openai, possui uma API aberta gera
 ## Sobre 
 Este projeto foi criado puramente para simular uma sistema de cadastro de produtos dentro de um supermercado. Para isso utilizei orientação a objetos.
 
-## Tecnologias usadas
+## Tecnologias utilizadas
 - Python
 - Pycharme
 
@@ -29,5 +29,19 @@ Este projeto foi criado puramente para simular uma sistema de cadastro de produt
  - Copie o arquivo e anexe ao python
  - Execute o código e siga os passo no terminal
 
+# [Interface de Login](https://github.com/gabriellsantos485/Meus-Projetos/tree/main/login)
+## Sobre 
+Projeto criado para demonstrar minhas habilidades sobre o dominio de criação de interfaces atraves da biblioteca Tkinter e minha habilidades dentro do BackEnd na criação de parâmetros de senhas e usuários.
+
+## Tecnologias utilizadas
+- Python
+- VS Code
+- Biblioteca Tkinter
+
+## Como executar o projeto
+ - Copie a pasta do diretório
+ - Anexe ao arquivo em formato python
+ - Instale a biblioteca tkinter dentro do seu terminal da IDE através de um: "pip install tkinter"
+ - Execute o código
 
   
