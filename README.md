@@ -8,8 +8,8 @@ A empresa detentora da IA chamada de ChatGpt, Openai, possui uma API aberta gera
 
 ## Tecnologias utilizadas 
 - Python
-- [API ChatGpt](https://platform.openai.com/docs/api-reference/introduction)
 - Pycharme
+- VS Code
 
 ## Como executar o projeto
   - Clone o arquivo e o cole dentro de um arquivo python podendo usar a sua preferência qual IDE.
@@ -23,10 +23,6 @@ A empresa detentora da IA chamada de ChatGpt, Openai, possui uma API aberta gera
 ## Sobre 
 Este projeto foi criado puramente para simular uma sistema de cadastro de produtos dentro de um supermercado. Para isso utilizei orientação a objetos.
 
-## Tecnologias utilizadas
-- Python
-- Pycharme
-
 ## Como executar o projeto 
  - Copie o arquivo e anexe ao python
  - Execute o código e siga os passo no terminal
@@ -35,11 +31,6 @@ Este projeto foi criado puramente para simular uma sistema de cadastro de produt
 # [Interface de Login](https://github.com/gabriellsantos485/Meus-Projetos/tree/main/login)
 ## Sobre 
 Projeto criado para demonstrar minhas habilidades sobre o dominio de criação de interfaces atraves da biblioteca Tkinter e minha habilidades dentro do BackEnd na criação de parâmetros de senhas e usuários.
-
-## Tecnologias utilizadas
-- Python
-- VS Code
-- Biblioteca Tkinter
 
 ## Como executar o projeto
  - Copie a pasta do diretório
